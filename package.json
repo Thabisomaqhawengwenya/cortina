@@ -1,0 +1,22 @@
+{
+  "name": "cortina",
+  "version": "1.0.0",
+  "description": "Cortina | Artisan Gelato & Slow-Churned Ice Cream Experience",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "cortina",
+    "gelato",
+    "ice-cream",
+    "gsap",
+    "lenis",
+    "tailwind",
+    "turbopack",
+    "micro-interactions"
+  ],
+  "author": "Maqhawe T Ngwenya",
+  "license": "MIT"
+}
