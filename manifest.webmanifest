@@ -1,0 +1,16 @@
+{
+  "name": "Cortina Ice Cream",
+  "short_name": "Cortina",
+  "description": "A Little Scoop of Happiness — Cortina Ice Cream by Kefalos, Zimbabwe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6EA",
+  "theme_color": "#007A3D",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -3,3 +3,6 @@ node_modules/
 *.log
 .env
 .env.local
+assets_icecream/
+kefalos_data/
+test_cortina.jpg
